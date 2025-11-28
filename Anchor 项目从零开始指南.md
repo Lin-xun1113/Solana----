@@ -104,7 +104,7 @@ npm install @coral-xyz/anchor @solana/web3.js
 npm install anchor-litesvm
 
 # 方式 B: anchor-bankrun (旧版，但稳定)
-npm install anchor-bankrun
+# npm install anchor-bankrun
 
 # =============================================
 # 开发依赖

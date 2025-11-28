@@ -6,13 +6,13 @@ export https_proxy=http://127.0.0.1:7890
 
 
 
-npx create-solana-dapp 创建项目框架
+npx create-solana-dapp 创建项目框架（前端带合约端，nextjs、tailwind、anchor）
 
 solana-test-validator 运行本地验证节点
 
 npm install anchor-bankrun 安装bankrun测试套件
 
-
+anchor keys sync 同步Program ID
 
 ### 运行测试命令
 
